@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FaceMe/static/css/main.7081f94e.chunk.css",
+    "main.js": "/FaceMe/static/js/main.a9bcce95.chunk.js",
+    "main.js.map": "/FaceMe/static/js/main.a9bcce95.chunk.js.map",
+    "runtime-main.js": "/FaceMe/static/js/runtime-main.b491ef11.js",
+    "runtime-main.js.map": "/FaceMe/static/js/runtime-main.b491ef11.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/FaceMe/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4150d3c6.chunk.js": "/FaceMe/static/js/2.4150d3c6.chunk.js",
+    "static/js/2.4150d3c6.chunk.js.map": "/FaceMe/static/js/2.4150d3c6.chunk.js.map",
+    "index.html": "/FaceMe/index.html",
+    "precache-manifest.9ecd50525617f9ad4177cc65603cf5b6.js": "/FaceMe/precache-manifest.9ecd50525617f9ad4177cc65603cf5b6.js",
+    "service-worker.js": "/FaceMe/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/FaceMe/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.7081f94e.chunk.css.map": "/FaceMe/static/css/main.7081f94e.chunk.css.map",
+    "static/media/ImageLinkForm.css": "/FaceMe/static/media/Elianto-Regular.217c0af5.ttf"
+  }
+}
